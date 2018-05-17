@@ -1,0 +1,152 @@
+{
+  "version": "1.5.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "N4BEP",
+      "url": "board-1-N4BEP.png",
+      "newShot": false,
+      "lastEdited": 1526523256450,
+      "layers": {
+        "reference": {
+          "url": "board-1-N4BEP-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-1-N4BEP-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 5063.609576223003,
+      "audio": {
+        "filename": "N4BEP-audio-1526523435726.wav",
+        "duration": 2820
+      },
+      "dialogue": "A for Apple"
+    },
+    {
+      "uid": "6LYUB",
+      "url": "board-2-6LYUB.png",
+      "newShot": false,
+      "lastEdited": 1526523286748,
+      "layers": {
+        "reference": {
+          "url": "board-2-6LYUB-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-2-6LYUB-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 2546.2099697679137,
+      "audio": {
+        "filename": "6LYUB-audio-1526523458987.wav",
+        "duration": 3660
+      },
+      "dialogue": "B for Ball"
+    },
+    {
+      "uid": "RH2NB",
+      "url": "board-3-RH2NB.png",
+      "newShot": false,
+      "lastEdited": 1526523294732,
+      "layers": {
+        "reference": {
+          "url": "board-3-RH2NB-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-3-RH2NB-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 1197.2687593493692,
+      "audio": {
+        "filename": "RH2NB-audio-1526523604169.wav",
+        "duration": 2640
+      },
+      "dialogue": "C for Cat"
+    },
+    {
+      "uid": "BSPAJ",
+      "url": "board-4-BSPAJ.png",
+      "newShot": false,
+      "lastEdited": 1526523297981,
+      "layers": {
+        "reference": {
+          "url": "board-4-BSPAJ-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-4-BSPAJ-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 6000,
+      "lineMileage": 2072.4522309331373,
+      "audio": {
+        "filename": "BSPAJ-audio-1526523495658.wav",
+        "duration": 2700
+      },
+      "dialogue": "D for Dog"
+    },
+    {
+      "uid": "TWWID",
+      "url": "board-5-TWWID.png",
+      "newShot": false,
+      "lastEdited": 1526523302985,
+      "layers": {
+        "reference": {
+          "url": "board-5-TWWID-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-5-TWWID-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 8000,
+      "lineMileage": 1308.3326516823347,
+      "audio": {
+        "filename": "TWWID-audio-1526523509582.wav",
+        "duration": 2760
+      },
+      "dialogue": "E for Ear"
+    },
+    {
+      "uid": "B29J8",
+      "url": "board-6-B29J8.png",
+      "newShot": false,
+      "lastEdited": 1526523313111,
+      "layers": {
+        "reference": {
+          "url": "board-6-B29J8-reference.png",
+          "opacity": 0.75
+        },
+        "notes": {
+          "url": "board-6-B29J8-notes.png"
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 10000,
+      "lineMileage": 1077.3197556297662,
+      "audio": {
+        "filename": "B29J8-audio-1526523522522.wav",
+        "duration": 2760
+      },
+      "dialogue": "F for Fox"
+    }
+  ]
+}
