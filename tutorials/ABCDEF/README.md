@@ -2,4 +2,12 @@
 
 Learn how to create a video with the letters A to F and their sounds.
 
-![What](./images/Capture_Boards.png "sdfsdf")
+# Steps
+
+## Boards mode
+
+![](images/Capture_boards.PNG)
+
+## Timeline mode
+
+![](images/Capture_timeline.PNG)
