@@ -4,6 +4,17 @@ Learn how to create a video with the letters A to F and their sounds.
 
 # Steps
 
+## Capturing Audio
+It is very easy to record an audio for a board.
+
+1. Select board
+2. Click on record button (and wait for countdown to 0)
+3. Record audio
+4. Stop recording
+5. Playback in the timeline
+
+![](images/Capture_recording_audio.gif)
+
 ## Boards mode
 
 ![](images/Capture_boards.PNG)
